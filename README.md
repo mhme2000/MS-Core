@@ -19,3 +19,14 @@ Serviços que estão presentes nessa solução:
  Foi escolhido o padrão saga coreografado para ser aplicado nessa solução. O padrão Saga Coreografado é uma abordagem de design de software que visa coordenar e gerenciar transações distribuídas em sistemas distribuídos. Por ser uma solução com poucos microsserviços, a escolha parece nos atender muito bem. Além de coordenar as transações distribuídas, podemos ressaltar a garantia de consistência nas transações, a tolerância a falhas, a escalabilidade e a flexibilidade como principais vantagens.
 
 ---
+
+## 💻 Desenho da arquitetura
+
+Arquitetura geral na nuvem aws:
+
+![image](https://github.com/mhme2000/MS-Core/assets/45264849/8c8ad3b3-d45e-49a3-88cd-7bfed33315d9)
+
+Arquitetura detalhada da SAGA coreografada com RabbitMQ:
+
+![image](https://github.com/mhme2000/MS-Core/assets/45264849/489ae671-e754-444b-b9a6-e6f44243a790)
+
