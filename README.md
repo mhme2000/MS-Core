@@ -14,7 +14,7 @@ Serviços que estão presentes nessa solução:
 - [x] MS-Products, responsável pelo gerenciamento do catálogo de produtos. Repositório : https://github.com/mhme2000/MS-Products
 - [x] MS-Customers, responsável pelo gerenciamento de clientes da plataforma. Repositório : https://github.com/mhme2000/MS-Customers
 - [x] MS-Infrastructure, responsável por prover toda a infraestrutura dentro da aws através do terraform. Repositório : https://github.com/mhme2000/MS-Infrastructure
-- [x] MS-Orders, responsável pelo gerenciamento do pedido, desde sua concepção até o estado de pronto. Repositório: ...
+- [x] MS-Orders, responsável pelo gerenciamento do pedido, desde sua concepção até o estado de pronto. Repositório: https://github.com/gustavo-clemente/tech-challenge-ms-order
  
  Foi escolhido o padrão saga coreografado para ser aplicado nessa solução. O padrão Saga Coreografado é uma abordagem de design de software que visa coordenar e gerenciar transações distribuídas em sistemas distribuídos. Por ser uma solução com poucos microsserviços, a escolha parece nos atender muito bem. Além de coordenar as transações distribuídas, podemos ressaltar a garantia de consistência nas transações, a tolerância a falhas, a escalabilidade e a flexibilidade como principais vantagens.
 
