@@ -15,6 +15,10 @@ Serviços que estão presentes nessa solução:
 - [x] MS-Customers, responsável pelo gerenciamento de clientes da plataforma. Repositório : https://github.com/mhme2000/MS-Customers
 - [x] MS-Infrastructure, responsável por prover toda a infraestrutura dentro da aws através do terraform. Repositório : https://github.com/mhme2000/MS-Infrastructure
 - [x] MS-Orders, responsável pelo gerenciamento do pedido, desde sua concepção até o estado de pronto. Repositório: https://github.com/gustavo-clemente/tech-challenge-ms-order
+
+ ---
+
+ ## 💻 Padrão SAGA escolhido
  
  Foi escolhido o padrão saga coreografado para ser aplicado nessa solução. O padrão Saga Coreografado é uma abordagem de design de software que visa coordenar e gerenciar transações distribuídas em sistemas distribuídos. Por ser uma solução com poucos microsserviços, a escolha parece nos atender muito bem. Além de coordenar as transações distribuídas, podemos ressaltar a garantia de consistência nas transações, a tolerância a falhas, a escalabilidade e a flexibilidade como principais vantagens.
 
@@ -30,3 +34,18 @@ Arquitetura detalhada da SAGA coreografada com RabbitMQ:
 
 ![image](https://github.com/mhme2000/MS-Core/assets/45264849/489ae671-e754-444b-b9a6-e6f44243a790)
 
+---
+
+## 💻 Relatório OWASP ZAP
+
+Relatório do endpoint de lista/exibir cardápio:
+
+![image](https://github.com/mhme2000/MS-Core/assets/45264849/0f7955a5-d751-4d2f-9746-c0b088bd5086)
+
+Relatório do endpoint de geração de pagamento:
+
+![image](https://github.com/mhme2000/MS-Core/assets/45264849/97b0e444-5257-4e27-b354-b868aaaf4227)
+
+Relatório do endpoint de geração de pagamento:
+
+![image](https://github.com/mhme2000/MS-Core/assets/45264849/eeaef012-889c-428a-b41e-4b8eba6a2ecc)
