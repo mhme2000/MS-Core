@@ -24,7 +24,7 @@ Serviços que estão presentes nessa solução:
 
 Arquitetura geral na nuvem aws:
 
-![image](https://github.com/mhme2000/MS-Core/assets/45264849/8c8ad3b3-d45e-49a3-88cd-7bfed33315d9)
+![Untitled-Copy of Page-1](https://github.com/mhme2000/MS-Core/assets/45264849/1e73bba4-55a7-483b-a8d8-1d1bae0ac7e5)
 
 Arquitetura detalhada da SAGA coreografada com RabbitMQ:
 
