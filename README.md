@@ -42,6 +42,10 @@ Relatório do endpoint de lista/exibir cardápio:
 
 ![image](https://github.com/mhme2000/MS-Core/assets/45264849/0f7955a5-d751-4d2f-9746-c0b088bd5086)
 
+Relatório do endpoint de realização de pedido:
+
+![image](https://github.com/mhme2000/MS-Core/assets/45264849/9d0f5b55-a30d-49b8-9967-4bb3a632c173)
+
 Relatório do endpoint de geração de pagamento:
 
 ![image](https://github.com/mhme2000/MS-Core/assets/45264849/97b0e444-5257-4e27-b354-b868aaaf4227)
