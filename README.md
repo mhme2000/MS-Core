@@ -1,7 +1,12 @@
 <h1 align="center">
    MS-Core
 </h1>
+ ---
 
+ ## 💻 Link do vídeo de apresentação
+
+
+  ---
 ## 💻 Sobre o projeto
 
 MS-Core. Projeto agregador que compõe o serviço de eccomerce desenvolvido no trabalho de conclusão de curso da pós tech da FIAP. Todos os projetos possuem instruções de execução no seu próprio README, mas de forma sucinta, para orquestração dos containers de forma local, foi utilizado o docker-compose, já para a orquestração em nuvem, foi utilizado o Elastic Container Service da AWS e o RabbitMQ para comunicação assíncrona via mensageria.
