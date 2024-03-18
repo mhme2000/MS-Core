@@ -3,6 +3,12 @@
 </h1>
  ---
 
+ ## 💻 Link do repositório principal
+
+[https://drive.google.com/file/d/1PpNfMDfK_YOMBgkXwVc5lhGTsrJ6XMrS/view](https://github.com/mhme2000/MS-Core/edit/main/README.md)
+
+ ---
+
  ## 💻 Link do vídeo de apresentação
 
 https://drive.google.com/file/d/1PpNfMDfK_YOMBgkXwVc5lhGTsrJ6XMrS/view
