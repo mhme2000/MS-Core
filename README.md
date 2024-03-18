@@ -50,6 +50,12 @@ Relatório do endpoint de geração de pagamento:
 
 ![image](https://github.com/mhme2000/MS-Core/assets/45264849/97b0e444-5257-4e27-b354-b868aaaf4227)
 
-Relatório do endpoint de geração de pagamento:
+Relatório do endpoint de confirmação de pagamento:
 
 ![image](https://github.com/mhme2000/MS-Core/assets/45264849/eeaef012-889c-428a-b41e-4b8eba6a2ecc)
+
+---
+
+## 💻 Relatório RIPD
+
+https://docs.google.com/document/d/1F5sMdFnhEewYEBQWLDkHPwVqVm3fulzqvxEpcaSAR3g/edit?usp=sharing
